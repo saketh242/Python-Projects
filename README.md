@@ -1,4 +1,4 @@
-# Python Projects for beginners.
+# Python Projects for beginners, these projects are inspired from various sources online.
 
 1. Credit Card Validation
 2. File Explorer
